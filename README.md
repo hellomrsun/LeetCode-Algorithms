@@ -1,3 +1,3 @@
 # LeetCode-Algorith
 
-[530-Minimum-Absolute-Difference-in-BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/): Inorder traversal
+[530-Minimum-Absolute-Difference-in-BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/530-Minimum-Absolute-Difference-in-BST): Inorder traversal
