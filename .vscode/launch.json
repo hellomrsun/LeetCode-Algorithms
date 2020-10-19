@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/188-Best-Time-to-Buy-and-Sell-Stock-IV/bin/Debug/netcoreapp3.1/188-Best-Time-to-Buy-and-Sell-Stock-IV.dll",
+            "program": "${workspaceFolder}/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row/bin/Debug/netcoreapp3.1/1007-Minimum-Domino-Rotations-For-Equal-Row.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/188-Best-Time-to-Buy-and-Sell-Stock-IV",
+            "cwd": "${workspaceFolder}/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
