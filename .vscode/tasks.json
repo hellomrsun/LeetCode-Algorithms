@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row/1007-Minimum-Domino-Rotations-For-Equal-Row.csproj",
+                "${workspaceFolder}/Algorithms/133-Clone-Graph/133-Clone-Graph.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row/1007-Minimum-Domino-Rotations-For-Equal-Row.csproj",
+                "${workspaceFolder}/Algorithms/133-Clone-Graph/133-Clone-Graph.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row/1007-Minimum-Domino-Rotations-For-Equal-Row.csproj",
+                "${workspaceFolder}/Algorithms/133-Clone-Graph/133-Clone-Graph.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
