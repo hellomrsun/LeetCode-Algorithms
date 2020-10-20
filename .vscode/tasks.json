@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/133-Clone-Graph/133-Clone-Graph.csproj",
+                "${workspaceFolder}/Algorithms/1436-Destination-City/1436-Destination-City.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/133-Clone-Graph/133-Clone-Graph.csproj",
+                "${workspaceFolder}/Algorithms/1436-Destination-City/1436-Destination-City.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/133-Clone-Graph/133-Clone-Graph.csproj",
+                "${workspaceFolder}/Algorithms/1436-Destination-City/1436-Destination-City.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

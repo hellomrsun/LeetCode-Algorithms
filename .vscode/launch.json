@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/133-Clone-Graph/bin/Debug/netcoreapp3.1/133-Clone-Graph.dll",
+            "program": "${workspaceFolder}/Algorithms/1436-Destination-City/bin/Debug/netcoreapp3.1/1436-Destination-City.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/133-Clone-Graph",
+            "cwd": "${workspaceFolder}/Algorithms/1436-Destination-City",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
