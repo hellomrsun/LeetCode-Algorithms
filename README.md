@@ -7,6 +7,8 @@
 3. [1007 Minimum Domino Rotations For Equal Row](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row)
 4. [133 Clone Graph](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/133-Clone-Graph): Dictionary
 5. [1436 Destination City](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1436-Destination-City): Dictionary
+6. [735 Asteroid Collision](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/735-Asteroid-Collision): Stack
+7. [1323 Maximum 69 Number](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1323-Maximum-69-Number): CharArray
 
 
 ## Database:

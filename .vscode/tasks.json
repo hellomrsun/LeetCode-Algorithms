@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/1436-Destination-City/1436-Destination-City.csproj",
+                "${workspaceFolder}/Algorithms/1323-Maximum-69-Number/1323-Maximum-69-Number.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/1436-Destination-City/1436-Destination-City.csproj",
+                "${workspaceFolder}/Algorithms/1323-Maximum-69-Number/1323-Maximum-69-Number.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/1436-Destination-City/1436-Destination-City.csproj",
+                "${workspaceFolder}/Algorithms/1323-Maximum-69-Number/1323-Maximum-69-Number.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
