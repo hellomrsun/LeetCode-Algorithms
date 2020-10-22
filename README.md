@@ -9,6 +9,8 @@
 5. [1436 Destination City](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1436-Destination-City): Dictionary
 6. [735 Asteroid Collision](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/735-Asteroid-Collision): Stack
 7. [1323 Maximum 69 Number](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1323-Maximum-69-Number): CharArray
+8. [557 Reverse Words in a String III](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/557-Reverse-Words-in-a-String-III): Stack
+9. [111 Minimum Depth of Binary Tree](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/111-Minimum-Depth-of-Binary-Tree): Stack
 
 
 ## Database:

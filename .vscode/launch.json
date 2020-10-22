@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/1323-Maximum-69-Number/bin/Debug/netcoreapp3.1/1323-Maximum-69-Number.dll",
+            "program": "${workspaceFolder}/Algorithms/111-Minimum-Depth-of-Binary-Tree/bin/Debug/netcoreapp3.1/111-Minimum-Depth-of-Binary-Tree.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/1323-Maximum-69-Number",
+            "cwd": "${workspaceFolder}/Algorithms/111-Minimum-Depth-of-Binary-Tree",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
