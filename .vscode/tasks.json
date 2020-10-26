@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/1510-Stone-Game-IV/1510-Stone-Game-IV.csproj",
+                "${workspaceFolder}/Algorithms/799-Champgane-Tower/799-Champgane-Tower.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/1510-Stone-Game-IV/1510-Stone-Game-IV.csproj",
+                "${workspaceFolder}/Algorithms/799-Champgane-Tower/799-Champgane-Tower.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/1510-Stone-Game-IV/1510-Stone-Game-IV.csproj",
+                "${workspaceFolder}/Algorithms/799-Champgane-Tower/799-Champgane-Tower.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
