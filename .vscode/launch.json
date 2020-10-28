@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/799-Champgane-Tower/bin/Debug/netcoreapp3.1/799-Champgane-Tower.dll",
+            "program": "${workspaceFolder}/Algorithms/228-Summary-Ranges/bin/Debug/netcoreapp3.1/228-Summary-Ranges.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/799-Champgane-Tower",
+            "cwd": "${workspaceFolder}/Algorithms/228-Summary-Ranges",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

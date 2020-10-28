@@ -15,6 +15,8 @@
 11. [653 Two Sum IV Input is a BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/653-Two-Sum-IV-Input-is-a-BST): DFS
 12. [1510 Stone Game IV](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1510-Stone-Game-IV): DP
 13. [799 Champgane Tower](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/799-Champgane-Tower): DP
+14. [142 Linked List Cycle II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/142-Linked-List-Cycle-II): 
+15. [228 Summary Ranges](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/228-Summary-Ranges): 
 
 
 ## Database:

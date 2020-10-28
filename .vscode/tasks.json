@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/799-Champgane-Tower/799-Champgane-Tower.csproj",
+                "${workspaceFolder}/Algorithms/228-Summary-Ranges/228-Summary-Ranges.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/799-Champgane-Tower/799-Champgane-Tower.csproj",
+                "${workspaceFolder}/Algorithms/228-Summary-Ranges/228-Summary-Ranges.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/799-Champgane-Tower/799-Champgane-Tower.csproj",
+                "${workspaceFolder}/Algorithms/228-Summary-Ranges/228-Summary-Ranges.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
