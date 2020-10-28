@@ -1,4 +1,4 @@
-# LeetCode-Algorith
+# LeetCode-Algorithms
 
 ## Algorithms:
 
