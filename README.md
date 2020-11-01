@@ -17,8 +17,11 @@
 13. [799 Champgane Tower](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/799-Champgane-Tower): DP
 14. [142 Linked List Cycle II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/142-Linked-List-Cycle-II): 
 15. [228 Summary Ranges](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/228-Summary-Ranges): 
-
+16. [849 Maximize Distance to Closest Person](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/849-Maximize-Distance-to-Closest-Person): 
+17. [1290 Convert Binary Number in a Linked List to Integer](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer)
 
 ## Database:
 
-1. [595-Big-Countries](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Database/595-Big-Countries): OR or UNION
+1. [595 Big Countries](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Database/595-Big-Countries): OR or UNION
+2. [178 Rank Scores](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Database/178-Rank-Scores): dense_rank()
+

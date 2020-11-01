@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1290_Convert_Binary_Number_in_a_Linked_List_to_Integer</RootNamespace>
+  </PropertyGroup>
+
+</Project>

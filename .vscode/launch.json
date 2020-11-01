@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/228-Summary-Ranges/bin/Debug/netcoreapp3.1/228-Summary-Ranges.dll",
+            "program": "${workspaceFolder}/Algorithms/3-Longest-Substring-Without-Repeating-Characters/bin/Debug/netcoreapp3.1/3-Longest-Substring-Without-Repeating-Characters.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/228-Summary-Ranges",
+            "cwd": "${workspaceFolder}/Algorithms/3-Longest-Substring-Without-Repeating-Characters",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
