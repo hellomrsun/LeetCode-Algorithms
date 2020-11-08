@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/3-Longest-Substring-Without-Repeating-Characters/bin/Debug/netcoreapp3.1/3-Longest-Substring-Without-Repeating-Characters.dll",
+            "program": "${workspaceFolder}/Algorithms/563-Binary-Tree-Tilt/bin/Debug/netcoreapp3.1/563-Binary-Tree-Tilt.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/3-Longest-Substring-Without-Repeating-Characters",
+            "cwd": "${workspaceFolder}/Algorithms/563-Binary-Tree-Tilt",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

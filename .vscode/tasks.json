@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/3-Longest-Substring-Without-Repeating-Characters/3-Longest-Substring-Without-Repeating-Characters.csproj",
+                "${workspaceFolder}/Algorithms/563-Binary-Tree-Tilt/563-Binary-Tree-Tilt.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/3-Longest-Substring-Without-Repeating-Characters/3-Longest-Substring-Without-Repeating-Characters.csproj",
+                "${workspaceFolder}/Algorithms/563-Binary-Tree-Tilt/563-Binary-Tree-Tilt.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/3-Longest-Substring-Without-Repeating-Characters/3-Longest-Substring-Without-Repeating-Characters.csproj",
+                "${workspaceFolder}/Algorithms/563-Binary-Tree-Tilt/563-Binary-Tree-Tilt.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
