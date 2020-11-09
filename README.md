@@ -24,6 +24,7 @@
 20. [1446 Consecutive Characters](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1446-Consecutive-Characters)
 21. [445 Add Two Numbers II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/445-Add-Two-Numbers-II): Stack
 22. [563 Binary Tree Tilt](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/563-Binary-Tree-Tilt): PostOrder
+23. [1026 Maximum Difference Between Node and Ancestor](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1026-Maximum-Difference-Between-Node-and-Ancestor): DFS
 
 ## Database:
 
