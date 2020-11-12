@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/832-Flipping-an-Image/bin/Debug/netcoreapp3.1/832-Flipping-an-Image.dll",
+            "program": "${workspaceFolder}/Algorithms/47-Permutations-II/bin/Debug/netcoreapp3.1/47-Permutations-II.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/832-Flipping-an-Image",
+            "cwd": "${workspaceFolder}/Algorithms/47-Permutations-II",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

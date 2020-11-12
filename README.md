@@ -25,6 +25,8 @@
 21. [445 Add Two Numbers II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/445-Add-Two-Numbers-II): Stack
 22. [563 Binary Tree Tilt](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/563-Binary-Tree-Tilt): PostOrder
 23. [1026 Maximum Difference Between Node and Ancestor](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1026-Maximum-Difference-Between-Node-and-Ancestor): DFS
+24. [593 Valid Square](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/593-Valid-Square): HashSet
+25. [47 Permutations II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/47-Permutations-II): Recursion
 
 ## Database:
 

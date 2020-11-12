@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/832-Flipping-an-Image/832-Flipping-an-Image.csproj",
+                "${workspaceFolder}/Algorithms/47-Permutations-II/47-Permutations-II.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/832-Flipping-an-Image/832-Flipping-an-Image.csproj",
+                "${workspaceFolder}/Algorithms/47-Permutations-II/47-Permutations-II.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/832-Flipping-an-Image/832-Flipping-an-Image.csproj",
+                "${workspaceFolder}/Algorithms/47-Permutations-II/47-Permutations-II.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
