@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/47-Permutations-II/47-Permutations-II.csproj",
+                "${workspaceFolder}/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node/116-Populating-Next-Right-Pointers-in-Each-Node.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/47-Permutations-II/47-Permutations-II.csproj",
+                "${workspaceFolder}/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node/116-Populating-Next-Right-Pointers-in-Each-Node.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/47-Permutations-II/47-Permutations-II.csproj",
+                "${workspaceFolder}/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node/116-Populating-Next-Right-Pointers-in-Each-Node.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

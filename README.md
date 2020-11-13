@@ -27,6 +27,7 @@
 23. [1026 Maximum Difference Between Node and Ancestor](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1026-Maximum-Difference-Between-Node-and-Ancestor): DFS
 24. [593 Valid Square](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/593-Valid-Square): HashSet
 25. [47 Permutations II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/47-Permutations-II): Recursion
+26. [116 Populating Next Right Pointers in Each Node](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/116-Populating-Next-Right-Pointers-in-Each-Node)
 
 ## Database:
 
