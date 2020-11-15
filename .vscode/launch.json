@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node/bin/Debug/netcoreapp3.1/116-Populating-Next-Right-Pointers-in-Each-Node.dll",
+            "program": "${workspaceFolder}/Algorithms/938-Range-Sum-of-BST/bin/Debug/netcoreapp3.1/938-Range-Sum-of-BST.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node",
+            "cwd": "${workspaceFolder}/Algorithms/938-Range-Sum-of-BST",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

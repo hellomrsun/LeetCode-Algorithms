@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node/116-Populating-Next-Right-Pointers-in-Each-Node.csproj",
+                "${workspaceFolder}/Algorithms/938-Range-Sum-of-BST/938-Range-Sum-of-BST.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node/116-Populating-Next-Right-Pointers-in-Each-Node.csproj",
+                "${workspaceFolder}/Algorithms/938-Range-Sum-of-BST/938-Range-Sum-of-BST.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node/116-Populating-Next-Right-Pointers-in-Each-Node.csproj",
+                "${workspaceFolder}/Algorithms/938-Range-Sum-of-BST/938-Range-Sum-of-BST.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
