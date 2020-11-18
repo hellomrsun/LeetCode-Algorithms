@@ -1,3 +1,5 @@
+using System;
+
 namespace _458_Poor_Pigs
 {
     public class Solution
