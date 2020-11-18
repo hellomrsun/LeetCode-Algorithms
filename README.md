@@ -27,10 +27,10 @@
 23. [1026 Maximum Difference Between Node and Ancestor](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1026-Maximum-Difference-Between-Node-and-Ancestor): DFS
 24. [593 Valid Square](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/593-Valid-Square): HashSet
 25. [47 Permutations II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/47-Permutations-II): Recursion
-26. [116 Populating Next Right Pointers in Each Node](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/116-Populating-Next-Right-Pointers-in-Each-Node)
-27. [845 Longest Mountain in Array](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/845-Longest-Mountain-in-Array)
-28. [858 Mirror Reflection](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/858-Mirror-Reflection)
-29. [56 Merge Intervals](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/56-Merge-Intervals)
+26. [116 Populating Next Right Pointers in Each Node](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/116-Populating-Next-Right-Pointers-in-Each-Node)
+27. [845 Longest Mountain in Array](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/845-Longest-Mountain-in-Array)
+28. [858 Mirror Reflection](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/858-Mirror-Reflection)
+29. [56 Merge Intervals](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/56-Merge-Intervals)
 
 ## Database:
 
