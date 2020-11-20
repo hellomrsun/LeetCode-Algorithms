@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/394-Decode-String/bin/Debug/netcoreapp3.1/394-Decode-String.dll",
+            "program": "${workspaceFolder}/Algorithms/81-Search-in-Rotated-Sorted-Array-II/bin/Debug/netcoreapp3.1/81-Search-in-Rotated-Sorted-Array-II.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/394-Decode-String",
+            "cwd": "${workspaceFolder}/Algorithms/81-Search-in-Rotated-Sorted-Array-II",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
