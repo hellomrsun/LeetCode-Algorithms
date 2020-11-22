@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/81-Search-in-Rotated-Sorted-Array-II/bin/Debug/netcoreapp3.1/81-Search-in-Rotated-Sorted-Array-II.dll",
+            "program": "${workspaceFolder}/Algorithms/804-Unique-Morse-Code-Words/bin/Debug/netcoreapp3.1/804-Unique-Morse-Code-Words.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/81-Search-in-Rotated-Sorted-Array-II",
+            "cwd": "${workspaceFolder}/Algorithms/804-Unique-Morse-Code-Words",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

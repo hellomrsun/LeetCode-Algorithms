@@ -31,8 +31,11 @@
 27. [845 Longest Mountain in Array](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/845-Longest-Mountain-in-Array)
 28. [858 Mirror Reflection](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/858-Mirror-Reflection)
 29. [56 Merge Intervals](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/56-Merge-Intervals)
-30. [394 Decode String](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/394-Decode-String)
+30. [394 Decode String](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/394-Decode-String): Stack
 31. [81 Search in Rotated Sorted Array II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/81-Search-in-Rotated-Sorted-Array-II)
+32. [150 Evaluate Reverse Polish Notation](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/150-Evaluate-Reverse-Polish-Notation): Stack
+33. [804 Unique Morse Code Words](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/804-Unique-Morse-Code-Words): HashSet
+
 
 ## Database:
 
