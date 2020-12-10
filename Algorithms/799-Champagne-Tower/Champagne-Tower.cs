@@ -1,6 +1,6 @@
 using System;
 
-namespace _799_Champgane_Tower
+namespace _799_Champagne_Tower
 {
     public class Solution
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _849_Maximize_Distance_to_Closest_Person
+namespace _849_Maximum_Distance_to_Closest_Person
 {
     class Program
     {
