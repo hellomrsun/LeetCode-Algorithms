@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/173-Binary-Search-Tree-Iterator/bin/Debug/netcoreapp3.1/173-Binary-Search-Tree-Iterator.dll",
+            "program": "${workspaceFolder}/Algorithms/80-Remove-Duplicates-from-Sorted-Array-II/bin/Debug/net5.0/80-Remove-Duplicates-from-Sorted-Array-II.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/173-Binary-Search-Tree-Iterator",
+            "cwd": "${workspaceFolder}/Algorithms/80-Remove-Duplicates-from-Sorted-Array-II",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
