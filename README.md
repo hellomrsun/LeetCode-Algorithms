@@ -34,16 +34,17 @@
 47. [845 Longest Mountain in Array](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/845-Longest-Mountain-in-Array)
 48. [849 Maximize Distance to Closest Person](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/849-Maximize-Distance-to-Closest-Person)
 49. [858 Mirror Reflection](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/858-Mirror-Reflection)
-50. [938 Range Sum of BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/938-Range-Sum-of-BST): PreOrder
-51. [948 Bag of Tokens](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/948-Bag-of-Tokens): Two-pointer
-52. [1007 Minimum Domino Rotations For Equal Row](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row)
-53. [1026 Maximum Difference Between Node and Ancestor](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1026-Maximum-Difference-Between-Node-and-Ancestor): DFS
-54. [1217 Minimum Cost to Move Chips to The Same Position](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position): Modulo
-55. [1290 Convert Binary Number in a Linked List to Integer](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer)
-56. [1323 Maximum 69 Number](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1323-Maximum-69-Number): CharArray
-57. [1436 Destination City](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1436-Destination-City): Dictionary
-58. [1446 Consecutive Characters](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1446-Consecutive-Characters)
-59. [1510 Stone Game IV](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1510-Stone-Game-IV): DP
+50. [865 Smallest Subtree with all the Deepest Nodes](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/865-Smallest-Subtree-with-all-the-Deepest-Nodes): DFS
+51. [938 Range Sum of BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/938-Range-Sum-of-BST): PreOrder
+52. [948 Bag of Tokens](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/948-Bag-of-Tokens): Two-pointer
+53. [1007 Minimum Domino Rotations For Equal Row](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row)
+54. [1026 Maximum Difference Between Node and Ancestor](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1026-Maximum-Difference-Between-Node-and-Ancestor): DFS
+55. [1217 Minimum Cost to Move Chips to The Same Position](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position): Modulo
+56. [1290 Convert Binary Number in a Linked List to Integer](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer)
+57. [1323 Maximum 69 Number](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1323-Maximum-69-Number): CharArray
+58. [1436 Destination City](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1436-Destination-City): Dictionary
+59. [1446 Consecutive Characters](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1446-Consecutive-Characters)
+60. [1510 Stone Game IV](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1510-Stone-Game-IV): DP
 
 
 
