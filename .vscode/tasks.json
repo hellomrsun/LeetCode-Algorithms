@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/80-Remove-Duplicates-from-Sorted-Array-II/80-Remove-Duplicates-from-Sorted-Array-II.csproj",
+                "${workspaceFolder}/Algorithms/20-Valid-Parentheses/20-Valid-Parentheses.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/80-Remove-Duplicates-from-Sorted-Array-II/80-Remove-Duplicates-from-Sorted-Array-II.csproj",
+                "${workspaceFolder}/Algorithms/20-Valid-Parentheses/20-Valid-Parentheses.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/80-Remove-Duplicates-from-Sorted-Array-II/80-Remove-Duplicates-from-Sorted-Array-II.csproj",
+                "${workspaceFolder}/Algorithms/20-Valid-Parentheses/20-Valid-Parentheses.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
