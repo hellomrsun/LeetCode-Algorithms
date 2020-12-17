@@ -22,33 +22,34 @@
 18. [337 House Robber III](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/337-House-Robber-III): DP
 19. [394 Decode String](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/394-Decode-String): Stack
 20. [445 Add Two Numbers II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/445-Add-Two-Numbers-II): Stack
-21. [456 132 Pattern](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/456-132-Pattern): Stack
-22. [458 Poor Pigs](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/458-Poor-Pigs): Math Power
-23. [530 Minimum Absolute Difference in BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/530-Minimum-Absolute-Difference-in-BST): Inorder traversal
-24. [557 Reverse Words in a String III](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/557-Reverse-Words-in-a-String-III): Stack
-25. [563 Binary Tree Tilt](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/563-Binary-Tree-Tilt): PostOrder
-26. [593 Valid Square](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/593-Valid-Square): HashSet
-27. [653 Two Sum IV Input is a BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/653-Two-Sum-IV-Input-is-a-BST): DFS
-28. [673 Number of Longest Increasing Subsequence](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/673-Number-of-Longest-Increasing-Subsequence)
-29. [735 Asteroid Collision](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/735-Asteroid-Collision): Stack
-30. [799 Champgane Tower](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/799-Champgane-Tower): DP
-31. [804 Unique Morse Code Words](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/804-Unique-Morse-Code-Words): HashSet
-32. [832 Flipping an Image](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/832-Flipping-an-Image)
-33. [845 Longest Mountain in Array](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/845-Longest-Mountain-in-Array)
-34. [849 Maximize Distance to Closest Person](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/849-Maximize-Distance-to-Closest-Person)
-35. [858 Mirror Reflection](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/858-Mirror-Reflection)
-36. [865 Smallest Subtree with all the Deepest Nodes](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/865-Smallest-Subtree-with-all-the-Deepest-Nodes): DFS
-37. [938 Range Sum of BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/938-Range-Sum-of-BST): PreOrder
-38. [948 Bag of Tokens](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/948-Bag-of-Tokens): Two-pointer
-39. [977 Squares of a Sorted Array](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/977-Squares-of-a-Sorted-Array): Two Pointer
-40. [1007 Minimum Domino Rotations For Equal Row](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row)
-41. [1026 Maximum Difference Between Node and Ancestor](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1026-Maximum-Difference-Between-Node-and-Ancestor): DFS
-42. [1217 Minimum Cost to Move Chips to The Same Position](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position): Modulo
-43. [1290 Convert Binary Number in a Linked List to Integer](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer)
-43. [1323 Maximum 69 Number](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1323-Maximum-69-Number): CharArray
-44. [1436 Destination City](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1436-Destination-City): Dictionary
-45. [1446 Consecutive Characters](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1446-Consecutive-Characters)
-46. [1510 Stone Game IV](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1510-Stone-Game-IV): DP
+21. [454 4Sum II](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/454-4Sum-II): Dictionary
+22. [456 132 Pattern](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/456-132-Pattern): Stack
+23. [458 Poor Pigs](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/458-Poor-Pigs): Math Power
+24. [530 Minimum Absolute Difference in BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/530-Minimum-Absolute-Difference-in-BST): Inorder traversal
+25. [557 Reverse Words in a String III](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/557-Reverse-Words-in-a-String-III): Stack
+26. [563 Binary Tree Tilt](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/563-Binary-Tree-Tilt): PostOrder
+27. [593 Valid Square](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/593-Valid-Square): HashSet
+28. [653 Two Sum IV Input is a BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/653-Two-Sum-IV-Input-is-a-BST): DFS
+29. [673 Number of Longest Increasing Subsequence](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/673-Number-of-Longest-Increasing-Subsequence)
+30. [735 Asteroid Collision](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/735-Asteroid-Collision): Stack
+31. [799 Champgane Tower](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/799-Champgane-Tower): DP
+32. [804 Unique Morse Code Words](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/804-Unique-Morse-Code-Words): HashSet
+33. [832 Flipping an Image](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/832-Flipping-an-Image)
+34. [845 Longest Mountain in Array](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/845-Longest-Mountain-in-Array)
+35. [849 Maximize Distance to Closest Person](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/849-Maximize-Distance-to-Closest-Person)
+36. [858 Mirror Reflection](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/858-Mirror-Reflection)
+37. [865 Smallest Subtree with all the Deepest Nodes](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/865-Smallest-Subtree-with-all-the-Deepest-Nodes): DFS
+38. [938 Range Sum of BST](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/938-Range-Sum-of-BST): PreOrder
+39. [948 Bag of Tokens](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/948-Bag-of-Tokens): Two-pointer
+40. [977 Squares of a Sorted Array](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/977-Squares-of-a-Sorted-Array): Two Pointer
+41. [1007 Minimum Domino Rotations For Equal Row](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1007-Minimum-Domino-Rotations-For-Equal-Row)
+42. [1026 Maximum Difference Between Node and Ancestor](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1026-Maximum-Difference-Between-Node-and-Ancestor): DFS
+43. [1217 Minimum Cost to Move Chips to The Same Position](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position): Modulo
+44. [1290 Convert Binary Number in a Linked List to Integer](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1290-Convert-Binary-Number-in-a-Linked-List-to-Integer)
+45. [1323 Maximum 69 Number](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1323-Maximum-69-Number): CharArray
+46. [1436 Destination City](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1436-Destination-City): Dictionary
+47. [1446 Consecutive Characters](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1446-Consecutive-Characters)
+48. [1510 Stone Game IV](https://github.com/hellomrsun/LeetCode-Algorithms/tree/main/Algorithms/1510-Stone-Game-IV): DP
 
 
 
