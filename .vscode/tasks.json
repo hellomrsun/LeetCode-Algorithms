@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Algorithms/205-Isomorphic-Strings/205-Isomorphic-Strings.csproj",
+                "${workspaceFolder}/Algorithms/880-Decoded-String-at-Index/880-Decoded-String-at-Index.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Algorithms/205-Isomorphic-Strings/205-Isomorphic-Strings.csproj",
+                "${workspaceFolder}/Algorithms/880-Decoded-String-at-Index/880-Decoded-String-at-Index.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/Algorithms/205-Isomorphic-Strings/205-Isomorphic-Strings.csproj",
+                "${workspaceFolder}/Algorithms/880-Decoded-String-at-Index/880-Decoded-String-at-Index.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

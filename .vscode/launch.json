@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Algorithms/205-Isomorphic-Strings/bin/Debug/net5.0/205-Isomorphic-Strings.dll",
+            "program": "${workspaceFolder}/Algorithms/880-Decoded-String-at-Index/bin/Debug/net5.0/880-Decoded-String-at-Index.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Algorithms/205-Isomorphic-Strings",
+            "cwd": "${workspaceFolder}/Algorithms/880-Decoded-String-at-Index",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
